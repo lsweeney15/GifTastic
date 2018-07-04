@@ -1,0 +1,63 @@
+body {
+	background-color: lightgray;
+	margin-top: 55px;
+	margin-bottom: 75px;
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+}
+
+.container {
+	width: ;
+}
+
+h1 {
+	font-family: 'Fredoka One', cursive;
+	font-size: 55px;
+	color: #fff;
+}
+
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	color: #fff;
+}
+
+form {
+	color: black;
+}
+
+#buttonsView {
+	display: inline;
+}
+
+.movie {
+	display: inline;
+}
+
+#gifsView {
+	display: inline;
+	margin-bottom: 40px;
+}
+
+#movie-form {
+	display: inline;
+}
+
+label {
+	color: black;
+}
+
+button {
+	background: #fff;
+	margin: 5px;
+	font-family: 'Open Sans', sans-serif;
+	color: black;
+}
+
+textarea:focus {
+  border-bottom: 2px solid #fff;
+  -webkit-box-shadow: 0 2px 0 0 #fff;
+  -moz-box-shadow: 0 2px 0 0 #fff;
+  box-shadow: 0 2px 0 0 #fff;
+}
