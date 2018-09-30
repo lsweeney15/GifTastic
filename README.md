@@ -5,7 +5,7 @@ This repository is for homework assignment #6 for University of Miami Coding Boo
 
 This game was built using the following: HTML, Bootstrap, JavaScript, jQuery and was made functional by calling upon the Giphy API.
 
-## It's hosted online here: https://lsweeney15.github.io/GifTastic/.
+## It's hosted online here: https://lsweeney15.github.io/GifTastic/index.html.
 
 ## How it Works:
 1. The user will access a screen with hardcoded buttons along the top.
