@@ -1,21 +1,14 @@
-# Homework Assignment #6:
-### GifTastic
+# giphy
+Ajax App
 
-This repository is for homework assignment #6 for University of Miami Coding Bootcamp. 
+## Description:
 
-This game was built using the following: HTML, Bootstrap, JavaScript, jQuery and was made functional by calling upon the Giphy API.
+This app uses the Giphy API along with Jquery and JavaScript to display gifs related to the button clicked. It also allows the user to add their own buttons in order to display gifs for themes of their choosing. The gifs display as static images but will animate when clicked.
 
-## It's hosted online here: https://lsweeney15.github.io/GifTastic/.
+## Instructions:
 
-## How it Works:
-1. The user will access a screen with hardcoded buttons along the top.
-
-2. When a button is clicked, 10 Gifs from the Gify API will populate along with their rating.
-
-3. The user is then able to pause/play the gif by clicking on the image. 
-
-4. The user may add their favorite movie by entering it into the form and clicking Submit. 
-
-5. Upon clicking, a button will dynamically appear and the user's input value will be read by the Giphy API resulting in 10 more Gifs related to their input.
-
-Liam Sweeney 2018
+```
+git clone git@github.com:erischjanson/giphy.git \\clone the giphy repository
+```
+Open the index.html file in the browser of your choosing.
+Click away!

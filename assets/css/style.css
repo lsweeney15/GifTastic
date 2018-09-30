@@ -1,0 +1,55 @@
+body {
+	background-color: #81a29b;
+	background-image: url("../images/ferraribg.png");
+	background-repeat: no-repeat;
+	font-family: 'Monda', sans-serif;
+}
+
+#movies{
+	padding: 3%;
+}
+
+div{
+	margin-bottom: 2%;
+}
+
+h1{
+	font-size: 90px;
+	color: #86151b;
+}
+
+.submitButton{
+	background-color:#86151b;
+	color: white;
+	border: #86151b solid 1px;
+	padding:5px 10px 5px 10px;
+	margin: 2px;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+p{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	color: #86151b;
+	text-align: center;
+}
+
+#cars{
+	align: left;
+}
+
+.gif{
+	border: 2px white solid;
+	align: left;
+}
+
+.label{
+	font-size: 20px;
+}
